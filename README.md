@@ -76,6 +76,10 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 
 <img width="1920" height="1080" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/d7fc5418-6090-41dc-b31a-bceed23810ad" />
 
+<img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/41d034d5-8a02-4c64-bca3-eaa8f4eb739f" />
+
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/ced0489e-ec6d-428c-b407-24136712dcb1" />
+
 <img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/3c6502dc-17b9-4306-ad94-58ce251c2d3a" />
 
 ## RESULT
